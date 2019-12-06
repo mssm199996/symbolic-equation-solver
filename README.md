@@ -3,8 +3,8 @@ A genetic programming application to solve linear and quadratic equations symbol
 
 # Running process:
 
-1)- To run the linear equation solver, use this instruction inside the main() method of the GeneticProgrammingSymbolicEquationSolverApp class:
+* To run the linear equation solver, use this instruction inside the main() method of the GeneticProgrammingSymbolicEquationSolverApp class:
         (new LinearEquationGeneticProgammingSolver()).solve();
 
-2)- To run the quadratic equation solver, use this instruction inside the main() method of the GeneticProgrammingSymbolicEquationSolverApp class:
+* To run the quadratic equation solver, use this instruction inside the main() method of the GeneticProgrammingSymbolicEquationSolverApp class:
         (new SquareEquationGeneticProgrammingSolver()).solve();
