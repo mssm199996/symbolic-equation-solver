@@ -1,5 +1,5 @@
 # symbolic-equation-solver
-A genetic programming application to solve linear and quadratic equations symboliclly
+A genetic programming application to solve linear and quadratic equations symbolically
 
 # Running process:
 
