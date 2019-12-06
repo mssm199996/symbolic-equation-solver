@@ -1,8 +1,10 @@
 # symbolic-equation-solver
 A genetic programming application to solve linear and quadratic equations symboliclly
 
-# To run the linear equation solver, use this instruction inside the main() method of the GeneticProgrammingSymbolicEquationSolverApp class:
+# Running process:
+
+1)- To run the linear equation solver, use this instruction inside the main() method of the GeneticProgrammingSymbolicEquationSolverApp class:
         (new LinearEquationGeneticProgammingSolver()).solve();
 
-# To run the quadratic equation solver, use this instruction inside the main() method of the GeneticProgrammingSymbolicEquationSolverApp class:
+2)- To run the quadratic equation solver, use this instruction inside the main() method of the GeneticProgrammingSymbolicEquationSolverApp class:
         (new SquareEquationGeneticProgrammingSolver()).solve();
